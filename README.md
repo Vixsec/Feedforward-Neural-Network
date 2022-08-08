@@ -1,5 +1,5 @@
 # Feedforward-Neural-Network
-An easly resizeable Feedforward neural network, that fits to any desired shape
+An easily resizeable Feedforward neural network, that fits to any desired shape
 
 
 # How to use:
